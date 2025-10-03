@@ -27,3 +27,16 @@ The analysis in the accompanying Jupyter Notebook will focus on:
 * **Folium / Geopandas:** Geospatial visualization and data processing.
 * **Jupyter Notebook:** For presenting the step-by-step analysis.
 
+* ### 💡 Featured Project: Nakuru Sanitation Analysis (Completed)
+
+This project is an end-to-end data analysis workflow, culminating in a technical report on infrastructure distribution and adequacy.
+
+* **Key Skills:** Python (Pandas, Folium), Geospatial Analysis, Data Cleaning.
+* **Result:** A fully interactive map and a **comprehensive technical report** detailing actionable insights for urban planners.
+
+---
+
+### 📰 Published Work
+
+* **[Technical Report: Geospatial Analysis of Nakuru Sanitation Systems (PDF)](https://github.com/kenic-70cloud/Nakuru-Sanitation-Analysis/blob/main/Nakuru_Sanitation_Analysis_Technical_Report.pdf)**
+
