@@ -1,2 +1,25 @@
 # Nakuru-Sanitation-Analysis
-Geospatial analysis of sanitation infrastructure and coverage in Nakuru County, Kenya.
+
+# 🗺️ Geospatial Analysis of Sanitation Infrastructure in Nakuru County, Kenya
+
+## Project Overview
+
+This project focuses on analyzing the distribution, type, and usage of sanitation systems across various Sub-Counties and Wards in Nakuru County, Kenya, utilizing the **WWX_Nakuru-FinishiNK Sanitation Trackbase Vol1a.csv** dataset.
+
+The objective is to leverage geospatial data (`lat` and `long` coordinates) to visualize sanitation coverage and identify disparities in infrastructure development, such as the prevalence of Septic systems versus main Sewer or newer Bio-digesters.
+
+## Key Analysis Areas
+
+The analysis in the accompanying Jupyter Notebook will focus on:
+
+1.  **Spatial Distribution:** Using **Folium** to create an interactive map showing the location and density of various toilet types across Wards (e.g., VIDP, Sewer, Septic, Bio-digester).
+2.  **Client Segmentation:** Comparing the sanitation types (`Toilet_Typ`) across different client categories (`School`, `Household`, `Rental Property`).
+3.  **Service Adequacy:** Analyzing the ratio of **`No_Users`** to **`System_Doo`** to assess the potential capacity and strain on existing systems.
+
+## Technologies Used
+
+* **Python:** Core programming language.
+* **Pandas & NumPy:** Data manipulation and cleaning.
+* **Folium / Geopandas:** Geospatial visualization and data processing.
+* **Jupyter Notebook:** For presenting the step-by-step analysis.
+
